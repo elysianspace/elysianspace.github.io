@@ -20,6 +20,8 @@ social:
     url: http://medium.com/@teratomaquia
   - title: ello
     url: http://ello.com/@teratomaquia
+  - title: wattpad
+    url: http://wattpad.com/teratomaquia
 
 # Build settings
 markdown: kramdown
