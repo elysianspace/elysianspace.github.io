@@ -14,7 +14,7 @@ footer: Teratomaquia
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: blog
+  - title: pen
     url: https://teratomaquia.dreamwidth.org
   - title: twitter
     url: https://twitter.com/teratomaquia
@@ -22,7 +22,7 @@ social:
     url: http://medium.com/@teratomaquia
   - title: ello
     url: http://ello.co/teratomaquia
-  - title: pen-fancy
+  - title: pen-nib
     url: http://wattpad.com/teratomaquia
 
 # Build settings
