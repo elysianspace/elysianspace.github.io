@@ -57,6 +57,8 @@ a:focus {
     color: #eeeeee;
 }
 
+#about a { color: #fff !important; }
+
 .light {
     font-weight: 400;
 }
